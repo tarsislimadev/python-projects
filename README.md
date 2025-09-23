@@ -8,6 +8,10 @@
 
 [parsed](#)
 
+### Kivy OpenCV Camera Example
+
+[description](./projects/KivyOpenCVCamExample/CLAUDE.md)
+
 ## license
 
 [MIT](./LICENSE)
