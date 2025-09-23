@@ -1,4 +1,4 @@
-# OpenCV projects
+# Python projects
 
 ## projects
 
